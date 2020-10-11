@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/512.png</file>
+        <file>img/1024.png</file>
+        <file>img/2048.png</file>
+        <file>img/帮助.png</file>
+        <file>img/帮助按下.png</file>
+        <file>img/单人游戏.png</file>
+        <file>img/单人游戏按下.png</file>
+        <file>img/多人游戏.png</file>
+        <file>img/多人游戏按下.png</file>
+        <file>img/返回.png</file>
+        <file>img/返回按下.png</file>
+        <file>img/开始背景.png</file>
+        <file>img/0.png</file>
+        <file>img/2.png</file>
+        <file>img/4.png</file>
+        <file>img/8.png</file>
+        <file>img/16.png</file>
+        <file>img/32.png</file>
+        <file>img/64.png</file>
+        <file>img/128.png</file>
+        <file>img/256.png</file>
+        <file>img/beijing.png</file>
+        <file>img/帮助1.png</file>
+        <file>img/双人背景.png</file>
+        <file>img/lose.png</file>
+        <file>img/p1.png</file>
+        <file>img/p2.png</file>
+        <file>img/pingju.png</file>
+        <file>img/win.png</file>
+        <file>img/继续.png</file>
+        <file>img/继续按下.png</file>
+        <file>img/退出.png</file>
+        <file>img/退出按下.png</file>
+    </qresource>
+</RCC>
